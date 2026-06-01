@@ -1,0 +1,6 @@
+{
+  "name": "trackin-webhook-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para webhooks do n8n — Trackin'",
+  "private": true
+}
