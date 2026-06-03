@@ -71,3 +71,4 @@ Exemplo de resposta esperada: {"cliente":"Reimont","projeto":"LP Petição"}`;
     return res.status(500).json({ erro: true, mensagem: 'Erro interno: ' + err.message });
   }
 }
+
